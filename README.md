@@ -1,4 +1,4 @@
-# LeQCAT
+# LeQC-AT
 Learned stepsize quantization
 
 
